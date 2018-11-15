@@ -19,4 +19,7 @@ def last_element(array)
   array[-1]
 end
 
-def first
+def first_element_with_array_methods
+end
+
+def 
